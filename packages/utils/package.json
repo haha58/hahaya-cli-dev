@@ -1,9 +1,9 @@
 {
-  "name": "utils",
-  "version": "1.0.5",
+  "name": "@hahaya-cli-dev/utils",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "haha58 <1461089222@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/haha58/hahaya-cli-dev#readme",
   "license": "ISC",
   "main": "lib/utils.js",
   "directories": {
@@ -13,12 +13,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haha58/hahaya-cli-dev.git"
+  },
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
   },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
-    "access": "public"
-  },
-  "gitHead": "8cb6daa36b8a762d73098f62d1d26857d59c2739"
+  "bugs": {
+    "url": "https://github.com/haha58/hahaya-cli-dev/issues"
+  }
 }
