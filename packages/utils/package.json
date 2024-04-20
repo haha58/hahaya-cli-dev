@@ -22,5 +22,10 @@
   },
   "bugs": {
     "url": "https://github.com/haha58/hahaya-cli-dev/issues"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "gitHead": "2da3aa7fa74f87fc4ff91691c977e856e1df32b2"
 }
