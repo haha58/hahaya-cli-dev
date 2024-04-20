@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "haha58 <1461089222@qq.com>",
   "homepage": "",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/utils.js",
   "directories": {
     "lib": "lib",
@@ -19,5 +19,6 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
-  }
+  },
+  "gitHead": "05e45fbb10f68c056c5687208edef1979df15cd5"
 }
